@@ -1,7 +1,6 @@
 {
   "dependencies": {
-    "algosdk": "^1.12.0",
-    "fetch-h2": "^3.0.1"
+    "algosdk": "^1.12.0"
   },
   "type": "module",
   "devDependencies": {
