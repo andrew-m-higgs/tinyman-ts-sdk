@@ -5,5 +5,31 @@
   "type": "module",
   "devDependencies": {
     "@types/node": "^17.0.5"
-  }
+  },
+  "name": "tinyman-sdk-ts",
+  "description": "Tinyman Typescript SDK",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takoyaro/tinyman-ts-sdk.git"
+  },
+  "keywords": [
+    "tinyman",
+    "typescript",
+    "sdk",
+    "algorand",
+    "blockchain",
+    "decentralized",
+    "exchange"
+  ],
+  "author": "takoyaro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takoyaro/tinyman-ts-sdk/issues"
+  },
+  "homepage": "https://github.com/takoyaro/tinyman-ts-sdk#readme"
 }
