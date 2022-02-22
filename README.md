@@ -11,6 +11,13 @@ This SDK is currently under active early development and should not be considere
 
 The SDK has been updated for Tinyman V1.1.
 
+## Support Development
+If you'd like to support the development of this SDK, you can send ALGO or a coffee
+[![my-algo](https://upload.wikimedia.org/wikipedia/commons/5/50/Algorand_mark.svg)](https://wallet.myalgo.com/)
+`DFL62FKU5OYG54Y5FRJ3JWAUQ27Y7PTA4HTNXOE6KCZRRHKDWGIOQWKNMA`
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F7AQ051)
+
 
 ## Installation
 tinyman-ts-sdk is available on `npm`. :
@@ -123,4 +130,4 @@ This method submits the signed transactions and optionally waits for confirmatio
 tinyman-py-sdk is licensed under a MIT license except for the exceptions listed below. See the LICENSE file for details.
 
 ## Exceptions
-`tinyman/v1/asc.json` is currently unlicensed. It may be used by this SDK but may not be used in any other way or be distributed separately without the express permission of Tinyman.
+`src/asc.json` is covered by the license here: https://github.com/tinymanorg/tinyman-contracts-v1/blob/main/LICENSE
