@@ -20,8 +20,11 @@ If you'd like to support the development of this SDK, you can send ALGO or a cof
 
 
 ## Installation
+Package will be available on `npm` on February 23rd 20:00 JST (2022/02/02 11:00 UTC)
+<!-- Need to wait on February 23rd 2022 to re-publish to NPM. Messed up the first upload.
 tinyman-ts-sdk is available on `npm`. :
 `npm i tinyman-ts-tsk` 
+-->
 
 
 ## Sneak Preview
