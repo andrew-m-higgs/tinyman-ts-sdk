@@ -133,4 +133,4 @@ This method submits the signed transactions and optionally waits for confirmatio
 tinyman-py-sdk is licensed under a MIT license except for the exceptions listed below. See the LICENSE file for details.
 
 ## Exceptions
-`src/asc.json` is covered by the license here: https://github.com/tinymanorg/tinyman-contracts-v1/blob/main/LICENSE
+[src/asc.json](https://github.com/takoyaro/tinyman-ts-sdk/blob/main/src/asc.json) is covered by the license here: https://github.com/tinymanorg/tinyman-contracts-v1/blob/main/LICENSE
